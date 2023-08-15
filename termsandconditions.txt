@@ -1,1 +1,6 @@
 Please read the following information before using File Hex Editor.
+
+Please make sure you know what you are doing when editing files with Hex.
+If you edit a file with Hex and don't know what you are doing, your files could get corrupted and even lost.
+
+
